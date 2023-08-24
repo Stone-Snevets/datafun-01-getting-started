@@ -1,0 +1,11 @@
+2023-08-24 11:45:57,637.basic_expressions.INFO ==================================================
+2023-08-24 11:45:57,637.basic_expressions.INFO Today is 2023-08-24 at 11:45 AM
+2023-08-24 11:45:57,655.basic_expressions.INFO Running on: nt Windows 10
+2023-08-24 11:45:57,656.basic_expressions.INFO Python version:  3.11.4
+2023-08-24 11:45:57,656.basic_expressions.INFO Python path: C:\Users\healt\AppData\Local\Programs\Python\Python311
+2023-08-24 11:45:57,656.basic_expressions.INFO Working dir: C:\Users\healt\Documents\DataAnalyticsFundamentals\datafun-01-getting-started
+2023-08-24 11:45:57,656.basic_expressions.INFO ==================================================
+2023-08-24 11:45:57,657.basic_expressions.INFO Given base=15 and height=8, rectangle_area = 120
+2023-08-24 11:45:57,657.basic_expressions.INFO Given rectangle_area=120, triangle_area=60.0
+2023-08-24 11:45:57,657.basic_expressions.INFO Given float_num1=1.2, float_num2=2.3, and float_num3 = 3.4, sum = 6.9
+2023-08-24 11:45:57,657.basic_expressions.INFO Given num1=34 and num2=6, the difference = 28

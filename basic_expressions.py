@@ -1,7 +1,7 @@
 """
 Purpose: Illustrate basic expressions and operators in Python.
 
-Author: Denise Case
+Author: Solomon Stevens
 
 This file name is:   basic_expressions.py
 This module name is: basic_expressions
@@ -37,27 +37,28 @@ logger, logname = setup_logger(__file__)
 # ----------------- END INSTRUCTOR GENERATED CODE -----------------
 
 # Declare  Variables
-# TODO: Try changing the values of these variables
-# TODO: Add some new variables (like rectangle_length and rectangle_width)
-#       and calculate the area of a rectangle (rectangle_area = rectangle_length * rectangle_width)
-triangle_base = 10
-triangle_height = 5
-num1 = 50
-num2 = 20
-float_num1 = 1.1
-float_num2 = 2.2
-float_num3 = 3.3
+rectangle_base = 15
+rectangle_height = 8
+num1 = 34
+num2 = 6
+float_num1 = 1.2
+float_num2 = 2.3
+float_num3 = 3.4
 
 # Basic Arithmetic Operations
-triangle_area = triangle_base * triangle_height / 2
-total_sum = float_num1 + float_num2
+rectangle_area = rectangle_base * rectangle_height
+triangle_area = rectangle_area / 2
+total_sum = float_num1 + float_num2 + float_num3
 difference = num1 - num2
 
 # Log Information
 logger.info(
-    f"Given base={triangle_base} and height={triangle_height}, triangle area = {triangle_area}"
+    f"Given base = {rectangle_base} and height = {rectangle_height}, rectangle_area = {rectangle_area}"
 )
 logger.info(
-    f"Given float_num1={float_num1} and float_num2={float_num2}, sum = {total_sum}"
+    f"Given rectangle_area = {rectangle_area}, triangle_area = {triangle_area}"
 )
-logger.info(f"Given num1={num1} and num2={num2}, the difference = {difference}")
+logger.info(
+    f"Given float_num1 = {float_num1}, float_num2 = {float_num2}, and float_num3 = {float_num3}, sum = {total_sum}"
+)
+logger.info(f"Given num1 = {num1} and num2 = {num2}, the difference = {difference}")

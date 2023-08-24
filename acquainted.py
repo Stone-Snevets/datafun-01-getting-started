@@ -1,7 +1,7 @@
 """
 Purpose: Get acquainted with basic Python concepts.
 
-Author: Denise Case
+Author: Solomon Stevens
 
 This file name is:   acquainted.py
 This module name is: acquainted
@@ -45,20 +45,18 @@ logger, logname = setup_logger(__file__)
 # Declare some variables - Python will infer the data type
 # Try string, integer, float, and boolean (True/False) variables
 
-# TODO: Customize these by changing the values - use your own name, etc.
-
 # String data types
-name = "John Doe"
-state = "California"
+name = "Solomon Stevens"
+state = "New Yordk"
 country = "USA"
 
 # Integer data types
-pet_count = 1
-skill_count = 24
+pet_count = 2
+skill_count = 13
 
 # Float data types (floating point numbers, with a decimal point)
-temperature_f = 81.5
-pet_weight_lbs = 12.5
+temperature_f = 64.1
+pet_weight_lbs = 15.7
 
 
 # Boolean data types (True or False)

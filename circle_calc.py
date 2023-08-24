@@ -2,7 +2,7 @@
 
 Purpose: Calculate the area of a circle.
 
-Author: Denise Case
+Author: Solomon Stevens
 
 This script illustrates importing modules and using constants.
 
@@ -47,18 +47,7 @@ radius = float(radius_string)
 
 # calculate the area using the numeric value (not the string)
 area = pi * radius**2
+area = round(area, 2)
 
 # log the results
 logger.info(f"The area of a circle with radius {radius} is {area}.")
-logger.info("Eww... that's a lot of decimal places - tmi!")
-
-
-# TODO Round the area to two decimal places.
-# Pass in 2 arguments to the round() function.
-#     The first argument is the value to round.
-#     The second argument is the number of decimal places (make it 2 not 12)
-area = round(area, 12)
-
-# log the results
-logger.info(f"The area of a circle with radius {radius} is {area}.")
-logger.info("Much better! (After you fix it.)")

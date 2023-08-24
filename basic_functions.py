@@ -1,7 +1,7 @@
 """
 Purpose: Illustrate basic functions in Python.
 
-Author: Denise Case
+Author: Solomon Stevens
 
 This file name is:   basic_functions.py
 This module name is: basic_functions
@@ -49,7 +49,7 @@ import webbrowser
 
 # Declare Variables
 url = "https://docs.python.org/3/library/functions.html"
-number_list = [1, 2, 3, 4, 5]
+number_list = [8, 3, 4, 5, 6, 7, 2]
 
 # Use built-in functions like len(), min(), max()
 length = len(number_list)
@@ -91,5 +91,3 @@ if response == "y":
     print("There's a lot of built-in functions ready to use!")
     print("We'll learn more about them later.")
     print()
-
-# TODO: Run with different responses n, y, other...

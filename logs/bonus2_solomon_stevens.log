@@ -1,0 +1,12 @@
+2023-08-25 10:17:39,818.bonus2_solomon_stevens.INFO ==================================================
+2023-08-25 10:17:39,819.bonus2_solomon_stevens.INFO Today is 2023-08-25 at 10:17 AM
+2023-08-25 10:17:39,839.bonus2_solomon_stevens.INFO Running on: nt Windows 10
+2023-08-25 10:17:39,839.bonus2_solomon_stevens.INFO Python version:  3.11.4
+2023-08-25 10:17:39,840.bonus2_solomon_stevens.INFO Python path: C:\Users\healt\AppData\Local\Programs\Python\Python311
+2023-08-25 10:17:39,840.bonus2_solomon_stevens.INFO Working dir: C:\Users\healt\Documents\DataAnalyticsFundamentals\datafun-01-getting-started
+2023-08-25 10:17:39,840.bonus2_solomon_stevens.INFO ==================================================
+2023-08-25 10:17:39,848.bonus2_solomon_stevens.INFO The average cars got 276.89 miles per full charge.
+2023-08-25 10:17:39,848.bonus2_solomon_stevens.INFO But the median of milage is 294.0 miles per full charge.
+2023-08-25 10:17:39,848.bonus2_solomon_stevens.INFO The best cars achieved 397 miles per full charge.
+2023-08-25 10:17:39,849.bonus2_solomon_stevens.INFO The worst cars got only 110 miles per full charge.
+2023-08-25 10:17:39,849.bonus2_solomon_stevens.INFO This list of cars has a variance of 8293.08 miles per full charge.

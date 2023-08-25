@@ -1,14 +1,14 @@
-2023-08-24 11:53:01,645.basic_functions.INFO ==================================================
-2023-08-24 11:53:01,646.basic_functions.INFO Today is 2023-08-24 at 11:53 AM
-2023-08-24 11:53:01,663.basic_functions.INFO Running on: nt Windows 10
-2023-08-24 11:53:01,663.basic_functions.INFO Python version:  3.11.4
-2023-08-24 11:53:01,664.basic_functions.INFO Python path: C:\Users\healt\AppData\Local\Programs\Python\Python311
-2023-08-24 11:53:01,664.basic_functions.INFO Working dir: C:\Users\healt\Documents\DataAnalyticsFundamentals\datafun-01-getting-started
-2023-08-24 11:53:01,664.basic_functions.INFO ==================================================
-2023-08-24 11:53:01,671.basic_functions.INFO Functions url = https://docs.python.org/3/library/functions.html
-2023-08-24 11:53:01,671.basic_functions.INFO number_list = [8, 3, 4, 5, 6, 7, 2]
-2023-08-24 11:53:01,671.basic_functions.INFO len(number_list) = 7
-2023-08-24 11:53:01,672.basic_functions.INFO min(number_list) = 2
-2023-08-24 11:53:01,672.basic_functions.INFO max(number_list) = 8
-2023-08-24 11:53:04,511.basic_functions.INFO message = Hello Solomon!
-2023-08-24 11:53:08,510.basic_functions.INFO response = dave
+2023-08-24 12:56:08,539.basic_functions.INFO ==================================================
+2023-08-24 12:56:08,539.basic_functions.INFO Today is 2023-08-24 at 12:56 PM
+2023-08-24 12:56:08,557.basic_functions.INFO Running on: nt Windows 10
+2023-08-24 12:56:08,557.basic_functions.INFO Python version:  3.11.4
+2023-08-24 12:56:08,557.basic_functions.INFO Python path: C:\Users\healt\AppData\Local\Programs\Python\Python311
+2023-08-24 12:56:08,558.basic_functions.INFO Working dir: C:\Users\healt\Documents\DataAnalyticsFundamentals\datafun-01-getting-started
+2023-08-24 12:56:08,558.basic_functions.INFO ==================================================
+2023-08-24 12:56:08,584.basic_functions.INFO Functions url = https://docs.python.org/3/library/functions.html
+2023-08-24 12:56:08,584.basic_functions.INFO number_list = [8, 3, 4, 5, 6, 7, 2]
+2023-08-24 12:56:08,585.basic_functions.INFO len(number_list) = 7
+2023-08-24 12:56:08,585.basic_functions.INFO min(number_list) = 2
+2023-08-24 12:56:08,586.basic_functions.INFO max(number_list) = 8
+2023-08-24 12:57:06,741.basic_functions.INFO message = Hello & c:/users/healt/appdata/local/programs/python/python311/python.exe c:/users/healt/documents/dataanalyticsfundamentals/datafun-01-getting-started/bonus1_solomon_stevens.py!
+2023-08-24 12:57:24,169.basic_functions.INFO response = n
